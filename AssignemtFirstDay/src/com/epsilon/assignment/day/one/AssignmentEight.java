@@ -35,5 +35,8 @@ public class AssignmentEight {
 		float num = 1.57079632679f;
 		System.out.println("Sin(" + num + ") is Equal to " + sine(num));
 		System.out.println("Sin(" + 0 + ") is Equal to " + sine(0));
+
+		System.out.println("Added this statement on 2:32PM ");
+		:
 	}
 }
