@@ -37,6 +37,6 @@ public class AssignmentEight {
 		System.out.println("Sin(" + 0 + ") is Equal to " + sine(0));
 
 		System.out.println("Added this statement on 2:32PM ");
-		:
+		System.out.println("Added this statement on 2:2:55PM  from git hub itself");
 	}
 }
